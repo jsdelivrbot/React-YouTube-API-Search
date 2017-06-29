@@ -8,6 +8,7 @@
     "youtube-api-search": "0.0.5"
   },
   "devDependencies": {
+    "gh-pages": "^1.0.0",
     "react-scripts": "1.0.9"
   },
   "scripts": {
@@ -15,5 +16,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "homepage": "https://github.com/florestankorp/React-YouTube-API-Search"
 }
